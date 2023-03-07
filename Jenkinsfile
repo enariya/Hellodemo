@@ -8,7 +8,7 @@ pipleline{
             }
             stage('Build'){
                 steps{
-                    echo 'Checkout
+                    echo 'Checkout'
                 }
             }
             stage('Test'){
